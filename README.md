@@ -1,4 +1,4 @@
-#GFN Steam Comparator
+# GFN Steam Comparator
 
 The goal of this project is to compare the list of Steam games found on
 
